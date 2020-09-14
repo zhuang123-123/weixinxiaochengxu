@@ -1,0 +1,5 @@
+/* pages/order/refundApply.wxss */
+.price {
+  color: #e64340;
+  font-weight: bold;
+}
